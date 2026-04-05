@@ -1,8 +1,6 @@
-<h1 align="center">Hey, I'm Eric Canalle 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F05138&center=true&width=435&lines=Senior%20Tech%20Analyst%20at%20PX.Center%3BExploring%20Swift%20%26%20SwiftUI%3BSwift%20Enthusiast%20%F0%9F%A6%85%3BBuilding%20elegant%20code" alt="Typing SVG" />
-</p>
+<h1>Eric Canalle</h1>
+<p>iOS Developer · Senior Tech Analyst at PX.Center</p>
+<p>Joinville, Brasil</p>
 
 ---
 
@@ -18,71 +16,25 @@ final class EricCanalle: Identifiable {
         let name = "Eric Canalle"
         var currentRole = "Senior Tech Analyst at PX.Center"
         let location = "Joinville, Brasil"
-        var experience = "8+ years technical expertise (Support) → Currently transitioning to iOS Development"
-        var background = "Career Pivot: Problem-solving, communication, and operational mindset as differentials"
+        var experience = "8+ years technical expertise · Actively building iOS apps with Swift & SwiftUI"
+        var background = "Applying problem-solving, communication, and operational mindset to iOS development"
     }
     
-    // MARK: - Technical Background
-    let coreCompetencies = [
-        "Problem-solving under pressure",
-        "Root cause analysis",
-        "Technical documentation",
-        "System architecture thinking"
-    ]
-    
-    var currentlyLearning = [
-        "Swift",
-        "SwiftUI",
-        "iOS Development",
-        "Xcode/Apple ecosystem"
-    ]
-    
-    var relatedExperience = [
-        "Git",
-        "REST APIs",
-        "Postgres",
-        "System troubleshooting"
-    ]
-    
     // MARK: - Current Status
-    @State var currentFocus = "Mastering SwiftUI architecture patterns"
-    @State var openToCollaboration = true
-    var funFact = "Apple enthusiast at heart - fell in love with the ecosystem and wanted to build for it"
+    @State var currentFocus = "Building production-ready iOS apps with SwiftUI"
+    var certifications = ["Swift 5", "Swift 6", "Xcode 15"]
 
     // MARK: - Contact
     let github = URL(string: "https://github.com/ecanalle")!
     let linkedin = URL(string: "https://www.linkedin.com/in/ecanalle/")!
     let email = "eric.canalle@icloud.com"
-
-    // MARK: - Daily Rituals
-    func startDay() -> [Activity] {
-        [
-            .drinkCoffee(size: .large),
-            .openXcode(),
-            .checkGitHub(),
-            .keepLearning()
-        ]
-    }
     
-    func endDay() -> Reflection {
-        Reflection(
-            lessonsLearned: .dynamic,
-            codeQuality: .improving,
-            coffeeConsumed: .considerable
-        )
-    }
+    // MARK: - Motto
+    let philosophy = "Think Different"
 }
 ```
 
-## 📬 Get In Touch
-
-<p align="left">
-  <a href="https://github.com/ecanalle"><img src="https://img.shields.io/badge/GitHub-ecanalle-F05138?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ecanalle/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:eric.canalle@icloud.com"><img src="https://img.shields.io/badge/Email-eric.canalle@icloud.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=for-the-badge" alt="Swift"/>
@@ -92,26 +44,21 @@ final class EricCanalle: Identifiable {
   <img src="https://img.shields.io/badge/SQL-555555?logo=code&logoColor=white&style=for-the-badge" alt="SQL"/>
 </p>
 
-## 💡 Why This Transition?
+## Background
 
-After 8+ years as a **Senior Tech Analyst**, I'm bringing my **problem-solving mindset, operational thinking, and communication skills** into iOS development. Not starting from zero - starting from a different angle.
+After 8+ years in technical support, I'm applying that problem-solving experience to iOS development. Not starting from zero — starting from a different angle.
 
-**My superpowers as a career switcher:**
-- **Root cause analysis & debugging:** Years of troubleshooting under pressure
-- **Clear communication:** From technical documentation to non-technical stakeholders  
-- **Operational mindset:** Understanding real-world impact of code decisions
-- **Consistency over intensity:** 5-7h/week disciplined learning (not burnout sprints)
+- Root cause analysis & system troubleshooting → Apple ecosystem focus
+- Technical documentation & communication → Clean, maintainable code
+- Completed: Swift 5, Swift 6, Xcode 15 certifications
 
----
+## Projects
 
-##  Let's Build Something Great Together!
+- **[incident-log](https://github.com/ecanalle/incident-log)** — iOS app for tracking and managing incidents · Built with SwiftUI & SwiftData
+- **[ecanalle](https://github.com/ecanalle/ecanalle)** — GitHub profile README · Swift struct aesthetics applied to personal brand
 
-I'm always interested in:
-- **Collaborating** on iOS/Swift projects
-- **Discussing** architecture patterns and best practices
-- **Mentoring** developers getting into SwiftUI
-- **Contributing** to open-source initiatives
+## Contact
 
----
-
-<p align="center"><i>Made with ❤️ and Swift 🦅</i></p>
+- GitHub: [ecanalle](https://github.com/ecanalle)
+- LinkedIn: [eric-canalle](https://www.linkedin.com/in/ecanalle/)
+- Email: eric.canalle@icloud.com
