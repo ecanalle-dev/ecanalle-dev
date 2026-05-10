@@ -1,9 +1,3 @@
-<h1>Eric Canalle</h1>
-<p>iOS Developer · Senior Tech Analyst at PX.Center</p>
-<p>Joinville, Brasil</p>
-
----
-
 ```swift
 // MARK: - About Me
 
@@ -14,10 +8,10 @@ final class EricCanalle: Identifiable {
     
     struct Profile {
         let name = "Eric Canalle"
-        var currentRole = "Senior Tech Analyst at PX.Center"
+        var currentRole = "iOS Developer in Progress"
         let location = "Joinville, Brasil"
-        var experience = "8+ years technical expertise · Actively building iOS apps with Swift & SwiftUI"
-        var background = "Applying problem-solving, communication, and operational mindset to iOS development"
+        var experience = "Building production-ready iOS apps with Swift & SwiftUI"
+        var background = "Learning iOS development, focused on clean code and system design"
     }
     
     // MARK: - Current Status
@@ -46,11 +40,11 @@ final class EricCanalle: Identifiable {
 
 ## Background
 
-After 8+ years in technical support, I'm applying that problem-solving experience to iOS development. Not starting from zero — starting from a different angle.
+Learning iOS development with Swift, SwiftUI, and SwiftData. Focused on building clean code, system design, and crafting thoughtful iOS experiences.
 
-- Root cause analysis & system troubleshooting → Apple ecosystem focus
-- Technical documentation & communication → Clean, maintainable code
-- Completed: Swift 5, Swift 6, Xcode 15 certifications
+- **Learning:** iOS development with Swift & SwiftUI
+- **Goal:** Full-time iOS Developer
+- **Certifications:** Swift 5, Swift 6, Xcode 15
 
 ## Projects
 
