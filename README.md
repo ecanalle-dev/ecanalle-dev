@@ -38,21 +38,8 @@ final class EricCanalle: Identifiable {
   <img src="https://img.shields.io/badge/SQL-555555?logo=code&logoColor=white&style=for-the-badge" alt="SQL"/>
 </p>
 
-## Background
-
-Learning iOS development with Swift, SwiftUI, and SwiftData. Focused on building clean code, system design, and crafting thoughtful iOS experiences.
-
-- **Learning:** iOS development with Swift & SwiftUI
-- **Goal:** Full-time iOS Developer
-- **Certifications:** Swift 5, Swift 6, Xcode 15
-
-## Projects
+## Focused On
 
 - **[incident-log](https://github.com/ecanalle/incident-log)** — iOS app for tracking and managing incidents · Built with SwiftUI & SwiftData
 - **[ecanalle](https://github.com/ecanalle/ecanalle)** — GitHub profile README · Swift struct aesthetics applied to personal brand
-
-## Contact
-
-- GitHub: [ecanalle](https://github.com/ecanalle)
-- LinkedIn: [eric-canalle](https://www.linkedin.com/in/ecanalle/)
-- Email: eric.canalle@icloud.com
+- **[swift-docs](https://github.com/ecanalle/swift-docs)** — Swift documentation and learning resources
