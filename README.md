@@ -40,6 +40,5 @@ final class EricCanalle: Identifiable {
 
 ## Focused On
 
-- **[incident-log](https://github.com/ecanalle/incident-log)** — iOS app for tracking and managing incidents · Built with SwiftUI & SwiftData
-- **[ecanalle](https://github.com/ecanalle/ecanalle)** — GitHub profile README · Swift struct aesthetics applied to personal brand
-- **[swift-docs](https://github.com/ecanalle/swift-docs)** — Swift documentation and learning resources
+- **[incident-log](https://github.com/ecanalle-dev/incident-log)** — iOS app for tracking and managing incidents · Built with SwiftUI & SwiftData
+- **[swift-docs](https://github.com/ecanalle-dev/swift-docs)** — Swift documentation and learning resources
